@@ -1,0 +1,33 @@
+{
+  "name": "todo_backend_node_koa_redis",
+  "version": "0.0.1",
+  "description": "A TODO Backend with node, koa and redis",
+  "main": "server.js",
+  "dependencies": {
+    "bunyan": "~1.0.0",
+    "co": "~3.1.0",
+    "co-redis": "^1.1.0",
+    "config": "~1.0.2",
+    "koa": "~0.10.0",
+    "koa-body": "~0.2.0",
+    "koa-cors": "0.0.13",
+    "koa-json": "~1.1.1",
+    "koa-onerror": "~1.2.0",
+    "koa-router": "~3.2.3",
+    "redis": "^0.12.1",
+    "thunkify": "~2.1.2"
+  },
+  "author": "Selvakumar Natesan",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "~3.8.7",
+    "gulp-jshint": "~1.8.4",
+    "gulp-nodemon": "*",
+    "nodemon": "*",
+    "gulp-util": "*",
+    "jshint-stylish": "~0.4.0"
+  },
+  "engines": {
+    "node": "0.11.13"
+  }
+}
