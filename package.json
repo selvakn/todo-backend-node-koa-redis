@@ -10,7 +10,7 @@
     "config": "~1.0.2",
     "koa": "~0.10.0",
     "koa-body": "~0.2.0",
-    "koa-cors": "0.0.13",
+    "koa-cors": "0.0.16",
     "koa-json": "~1.1.1",
     "koa-onerror": "~1.2.0",
     "koa-router": "~3.2.3",
