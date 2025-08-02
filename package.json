@@ -13,7 +13,7 @@
     "koa-cors": "0.0.13",
     "koa-json": "~1.1.1",
     "koa-onerror": "~1.2.0",
-    "koa-router": "~3.2.3",
+    "koa-router": "~3.8.0",
     "redis": "^0.12.1",
     "thunkify": "~2.1.2"
   },
