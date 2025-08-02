@@ -4,7 +4,7 @@
   "description": "A TODO Backend with node, koa and redis",
   "main": "server.js",
   "dependencies": {
-    "bunyan": "~1.0.0",
+    "bunyan": "~1.8.15",
     "co": "~3.1.0",
     "co-redis": "^1.1.0",
     "config": "~1.0.2",
